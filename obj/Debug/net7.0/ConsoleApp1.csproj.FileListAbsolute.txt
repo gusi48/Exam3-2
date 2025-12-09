@@ -1,0 +1,15 @@
+C:\Student\id\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Student\id\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Student\id\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Student\id\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Student\id\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Student\id\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Student\id\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Student\id\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Student\id\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Student\id\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Student\id\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Student\id\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Student\id\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Student\id\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Student\id\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
